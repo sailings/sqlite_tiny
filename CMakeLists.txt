@@ -4,4 +4,4 @@ project(sqlite_tiny C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(sqlite_tiny
-        part10.c)
+        part12.c)
